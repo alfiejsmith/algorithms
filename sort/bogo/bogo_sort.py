@@ -3,7 +3,7 @@ from random import shuffle
 """
 Will sort a list of integers from lowest to highest
 
-Binary Search:
+Bogo Sort:
 Best - O(n)
 Worst - O(n!)
 Average - O(n!)
