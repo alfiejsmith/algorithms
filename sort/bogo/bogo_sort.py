@@ -5,8 +5,8 @@ Will sort a list of integers from lowest to highest
 
 Binary Search:
 Best - O(n)
-Worst - O(n^2)
-Average - O(n^2)
+Worst - O(n!)
+Average - O(n!)
 Space Complexity - O(1)
 
 This function returns a copy for the sake of it.
